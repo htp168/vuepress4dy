@@ -12,6 +12,7 @@ export default defineUserConfig({
   
   title: 'VuePress',
   description: 'My first VuePress Site',
+  base: '/vuepress4dy',
   
   // theme: defaultTheme({
     theme: plumeTheme({

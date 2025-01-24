@@ -1,6 +1,6 @@
 <template><div><h1 id="product" tabindex="-1"><a class="header-anchor" href="#product"><span>Product</span></a></h1>
 <h2 id="dy2002aa-60-20-silent-version" tabindex="-1"><a class="header-anchor" href="#dy2002aa-60-20-silent-version"><span><VPIcon name="tabler:brand-walmart"></VPIcon>DY2002AA-60/20 Silent Version</span></a></h2>
-<p><img src="@source/attach/Pasted image 20241222002753.png" alt="1"></p>
+<figure><img src="@source/attach/DY2002AA-20-120_a.png" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><strong>Indicator</strong>
 Max Flow : 42.5lpm (1.5cfm)
 Max Pressure Level :5bar (72.5psi) INT.
@@ -34,9 +34,9 @@ Single head version of the ZW250, ideal for small laboratory applications.</p>
 	<td><4.5kg</td>
 </tr>
 </table>
-<p><img src="@source/attach/efdebeb2cc066af32a4c938ae1216013_ZWS250-technical-drawing.jpg" alt="2"></p>
+<figure><img src="@source/attach/DY2002AA-60-20_b.png" alt="Alt" tabindex="0" loading="lazy"><figcaption>Alt</figcaption></figure>
 <h2 id="dy2002aa-60-20-silent-version-1" tabindex="-1"><a class="header-anchor" href="#dy2002aa-60-20-silent-version-1"><span><VPIcon name="tabler:brand-walmart"></VPIcon>DY2002AA-60/20 Silent Version</span></a></h2>
-<p><img src="@source/attach/Pasted image 20241222002753.png" alt="1"></p>
+<figure><img src="@source/attach/DY2002AA-20-120_a.png" alt="" width="300" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><strong>Indicator</strong>
 Max Flow : 42.5lpm (1.5cfm)
 Max Pressure Level :5bar (72.5psi) INT.
@@ -70,9 +70,9 @@ Single head version of the ZW250, ideal for small laboratory applications.</p>
 	<td><4.5kg</td>
 </tr>
 </table>
-<p><img src="@source/attach/efdebeb2cc066af32a4c938ae1216013_ZWS250-technical-drawing.jpg" alt="2"></p>
+<figure><img src="@source/attach/DY2002AA-20-120_b.png" alt="Alt" tabindex="0" loading="lazy"><figcaption>Alt</figcaption></figure>
 <h2 id="dy2002aa-60-20-silent-version-2" tabindex="-1"><a class="header-anchor" href="#dy2002aa-60-20-silent-version-2"><span><VPIcon name="tabler:brand-walmart"></VPIcon>DY2002AA-60/20 Silent Version</span></a></h2>
-<p><img src="@source/attach/Pasted image 20241222002753.png" alt="1"></p>
+<figure><img src="@source/attach/DY2002AA-5_a.png" alt="Alt" width="300" tabindex="0" loading="lazy"><figcaption>Alt</figcaption></figure>
 <p><strong>Indicator</strong>
 Max Flow : 42.5lpm (1.5cfm)
 Max Pressure Level :5bar (72.5psi) INT.
@@ -106,7 +106,7 @@ Single head version of the ZW250, ideal for small laboratory applications.</p>
 	<td><4.5kg</td>
 </tr>
 </table>
-<p><img src="@source/attach/efdebeb2cc066af32a4c938ae1216013_ZWS250-technical-drawing.jpg" alt="2"></p>
+<figure><img src="@source/attach/DY2002AA-5_b.png" alt="Alt" tabindex="0" loading="lazy"><figcaption>Alt</figcaption></figure>
 </div></template>
 
 

@@ -1,6 +1,7 @@
-<template><div><!-- 在 markdown 中导入 -->
+<template><div><h1 id="about-us" tabindex="-1"><a class="header-anchor" href="#about-us"><span>About US</span></a></h1>
+<!-- 在 markdown 中导入 -->
 <!-- 导入后，即可在 markdown 中使用 -->
-<Swiper :items="['https://picsum.photos/id/1/400/100']" /><h2 id="about-us" tabindex="-1"><a class="header-anchor" href="#about-us"><span>About us</span></a></h2>
+<Swiper :items="['https://picsum.photos/id/1/400/100']" /><h2 id="about-us-1" tabindex="-1"><a class="header-anchor" href="#about-us-1"><span>About us</span></a></h2>
 <p>DY is one of the leading designers and manufacturers of vacuum pumps &amp; oil-free air compressors, supplying predominantly OEMs in automotive, environmental, medical, laboratory, beverage and other industrial markets.
 In addition to exceptional innovation and competitive pricing, we offer our OEM customers the full benefit of our outstanding technological expertise :
 We offer class-leading longevity in the OEM compressor field, thanks to our very tight manufacturing tolerances.

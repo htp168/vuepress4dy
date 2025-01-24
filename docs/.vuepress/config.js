@@ -7,6 +7,9 @@ import { recoTheme } from 'vuepress-theme-reco'
 import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
 
+import { markdownImagePlugin } from '@vuepress/plugin-markdown-image'
+
+
 export default defineUserConfig({
   lang: 'en-US',
   
@@ -22,4 +25,16 @@ export default defineUserConfig({
     }),
     
     bundler: viteBundler(),
+  plugins: [
+    markdownImagePlugin({
+      // 启用 figure
+      figure: true,
+      // 启用图片懒加载
+      lazyload: true,
+      // 启用图片标记
+      mark: true,
+      // 启用图片大小
+      size: true,
+    }),
+  ],
 })

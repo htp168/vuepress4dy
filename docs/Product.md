@@ -45,7 +45,7 @@ table.tftable_plain td {font-size:12px;border-width: 1px;padding: 8px;border-sty
 
 ## :[tabler:brand-walmart]:DY2002AA-60/20 Silent Version
 
-![1](attach/Pasted%20image%2020241222002753.png)
+![](attach/DY2002AA-20-120_a.png =300x)
 
 **Indicator**
 Max Flow : 42.5lpm (1.5cfm)
@@ -56,6 +56,7 @@ Max Vacuum Level :-880mbar (26"Hg)
 Single head version of the ZW250, ideal for small laboratory applications.
 
 **Parameter** : 
+
 <table class="tftable_plain">
 
 <tr>
@@ -86,11 +87,11 @@ Single head version of the ZW250, ideal for small laboratory applications.
 
 </table>
 
-![2](attach/efdebeb2cc066af32a4c938ae1216013_ZWS250-technical-drawing.jpg)
+![Alt](attach/DY2002AA-60-20_b.png)
 
 ## :[tabler:brand-walmart]:DY2002AA-60/20 Silent Version
 
-![1](attach/Pasted%20image%2020241222002753.png)
+![](attach/DY2002AA-20-120_a.png =300x)
 
 **Indicator**
 Max Flow : 42.5lpm (1.5cfm)
@@ -101,6 +102,7 @@ Max Vacuum Level :-880mbar (26"Hg)
 Single head version of the ZW250, ideal for small laboratory applications.
 
 **Parameter** : 
+
 <table class="tftable_plain">
 
 <tr>
@@ -131,11 +133,11 @@ Single head version of the ZW250, ideal for small laboratory applications.
 
 </table>
 
-![2](attach/efdebeb2cc066af32a4c938ae1216013_ZWS250-technical-drawing.jpg)
+![Alt](attach/DY2002AA-20-120_b.png)
 
 ## :[tabler:brand-walmart]:DY2002AA-60/20 Silent Version
 
-![1](attach/Pasted%20image%2020241222002753.png)
+![Alt](attach/DY2002AA-5_a.png =300x)
 
 **Indicator**
 Max Flow : 42.5lpm (1.5cfm)
@@ -176,4 +178,4 @@ Single head version of the ZW250, ideal for small laboratory applications.
 
 </table>
 
-![2](attach/efdebeb2cc066af32a4c938ae1216013_ZWS250-technical-drawing.jpg)
+![Alt](attach/DY2002AA-5_b.png)

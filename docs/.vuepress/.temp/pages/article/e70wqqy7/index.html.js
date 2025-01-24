@@ -1,5 +1,5 @@
-import comp from "/cloudide/workspace/vuepress/docs/.vuepress/.temp/pages/article/e70wqqy7/index.html.vue"
-const data = JSON.parse("{\"path\":\"/article/e70wqqy7/\",\"title\":\"get-started\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"get-started\",\"createTime\":\"2024/12/22 06:14:34\",\"permalink\":\"/article/e70wqqy7/\",\"gitInclude\":[]},\"headers\":[],\"readingTime\":{\"minutes\":0.74,\"words\":221},\"filePathRelative\":\"Get-Started.md\",\"categoryList\":[],\"bulletin\":false}")
+import comp from "C:/Users/Administrator/mnt/Workspace/vuepress4dy/docs/.vuepress/.temp/pages/article/e70wqqy7/index.html.vue"
+const data = JSON.parse("{\"path\":\"/article/e70wqqy7/\",\"title\":\"get-started\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"get-started\",\"createTime\":\"2024/12/22 06:14:34\",\"permalink\":\"/article/e70wqqy7/\",\"gitInclude\":[]},\"headers\":[],\"readingTime\":{\"minutes\":0.74,\"words\":221},\"filePathRelative\":\"Get-Started.md\",\"categoryList\":[]}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

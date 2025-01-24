@@ -1,2 +1,2 @@
-import "/cloudide/workspace/vuepress/node_modules/.pnpm/katex@0.16.18/node_modules/katex/dist/katex.min.css";
-import "/cloudide/workspace/vuepress/node_modules/.pnpm/@vuepress+plugin-markdown-math@2.0.0-rc.66_katex@0.16.18_markdown-it@14.1.0_typescript@5.7.2_vuepress@2.0.0-rc.19/node_modules/@vuepress/plugin-markdown-math/lib/client/styles/katex.css";
+import "C:/Users/Administrator/mnt/Workspace/vuepress4dy/node_modules/katex/dist/katex.min.css";
+import "C:/Users/Administrator/mnt/Workspace/vuepress4dy/node_modules/vuepress-theme-plume/node_modules/@vuepress/plugin-markdown-math/lib/client/styles/katex.css";

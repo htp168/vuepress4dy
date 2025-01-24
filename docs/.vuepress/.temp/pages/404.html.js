@@ -1,5 +1,5 @@
-import comp from "/cloudide/workspace/vuepress/docs/.vuepress/.temp/pages/404.html.vue"
-const data = JSON.parse("{\"path\":\"/404.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{\"layout\":\"NotFound\",\"gitInclude\":[]},\"headers\":[],\"readingTime\":{\"minutes\":0.01,\"words\":3},\"filePathRelative\":null,\"bulletin\":false}")
+import comp from "C:/Users/Administrator/mnt/Workspace/vuepress4dy/docs/.vuepress/.temp/pages/404.html.vue"
+const data = JSON.parse("{\"path\":\"/404.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{\"layout\":\"NotFound\",\"gitInclude\":[]},\"headers\":[],\"readingTime\":{\"minutes\":0.01,\"words\":3},\"filePathRelative\":null}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

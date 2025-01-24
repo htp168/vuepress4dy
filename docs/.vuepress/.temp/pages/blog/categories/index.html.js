@@ -1,5 +1,5 @@
-import comp from "/cloudide/workspace/vuepress/docs/.vuepress/.temp/pages/blog/categories/index.html.vue"
-const data = JSON.parse("{\"path\":\"/blog/categories/\",\"title\":\"Categories\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Categories\",\"gitInclude\":[],\"draft\":true},\"headers\":[],\"readingTime\":{\"minutes\":0,\"words\":0},\"filePathRelative\":null,\"type\":\"blog-categories\",\"bulletin\":false}")
+import comp from "C:/Users/Administrator/mnt/Workspace/vuepress4dy/docs/.vuepress/.temp/pages/blog/categories/index.html.vue"
+const data = JSON.parse("{\"path\":\"/blog/categories/\",\"title\":\"Categories\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Categories\",\"gitInclude\":[],\"draft\":true},\"headers\":[],\"readingTime\":{\"minutes\":0,\"words\":0},\"filePathRelative\":null,\"type\":\"blog-categories\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {
